@@ -1,2 +1,2 @@
 # games
-all browser games files here_
+all browser games files here for hoho games
